@@ -1,3 +1,5 @@
+
+#Step 1: Start Metro
 ```sh
 
 npx @react-native-community/cli init myappp
